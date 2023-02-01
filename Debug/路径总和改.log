@@ -1,0 +1,7 @@
+﻿  maxPathSum.cpp
+D:\VSCode\路径总和改\maxPathSum.cpp(52,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VSCode\路径总和改\maxPathSum.cpp(54,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VSCode\路径总和改\maxPathSum.cpp(58,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VSCode\路径总和改\maxPathSum.cpp(60,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VSCode\路径总和改\maxPathSum.cpp(62,46): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\VSCode\路径总和改\maxPathSum.cpp(64,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
